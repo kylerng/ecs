@@ -1,0 +1,23 @@
+{
+  "name": "ecs",
+  "version": "1.0.0",
+  "description": " Entity-Component-System framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylerng/ecs.git"
+  },
+  "author": "kyler.ng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylerng/ecs/issues"
+  },
+  "homepage": "https://github.com/kylerng/ecs#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "tslib": "^2.0.0"
+  }
+}
