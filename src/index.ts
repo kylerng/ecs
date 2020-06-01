@@ -23,3 +23,8 @@ export * from './util/unique';
 export * from './util/type.utils';
 export * from './util/event-source';
 
+// world
+export * from './world/World';
+export * from './world/System';
+export * from './world/Component';
+export * from './world/Entity';
