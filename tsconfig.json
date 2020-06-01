@@ -11,7 +11,7 @@
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
         "importHelpers": true,
-        "lib": [ "es2015", "dom" ]
+        "lib": [ "es2015" ]
     },
     "include": [
         "src/**/*"
